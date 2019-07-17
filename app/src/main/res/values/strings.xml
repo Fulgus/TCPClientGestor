@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TCPClientGestor</string>
+    <string name="header">Select the IP and Port to connect and hit Send</string>
+    <string name="ipView">IP:</string>
+    <string name="portView">Port:</string>
+    <string name="descriptorAntenna">Satellite Antenna</string>
+    <string name="buttonText">Send</string>
+    <string name="msgHeader">Message received:</string>
+    <string name="msgBox">Test</string>
+    <string name="close">Close</string>
+    <string name="sendArd">Send Arduino</string>
+</resources>
